@@ -396,22 +396,41 @@ body {
     .victorya{
     margin: 0 60px 0 10px!important;
     }
+    .good {
+        margin: 20px 50px 0 25px;
+    }
+    .page2 {
+        padding-left: 25px;
+    }
+    .the-best {
+        width: 60vw;
+    }
     .when {
-        margin: 20px 0 0 3rem;
-        width: 87vw;
+        margin: 20px 0 0 25px;
+        width: 90vw;
+    }
+    .best-comfort {
+        padding-left: 25px;
+    }
+    .best-comfort2 {
+        width: 90vw;
+    }
+    .grid-container {
+        margin-left: 25px;
+        width: 90vw;
     }
     .grid1 {
         display: grid;
-        grid-template-columns: repeat(2, 42vw);
+        grid-template-columns: repeat(2, 42.6vw);
         grid-template-rows: repeat(3, 200px);
         column-gap: 1rem;
         row-gap: 8rem;
     }
     .last-grid {
-        grid-template-columns: repeat(1, 87vw);
+        grid-template-columns: repeat(1, 87.6vw);
         grid-template-rows: repeat(4, 250px);
        row-gap:1rem ;
-       margin-left: 3rem;
+       margin-left: 25px;
     
     }
    .lastFlex{
