@@ -139,6 +139,19 @@ body {
 .grid-content div {
     padding: 10px;
 }
+.img150,
+.img140, 
+.img7,
+.img6,
+.img2,
+.img19,
+.img20,
+.img17,
+.img110,
+.img30
+{
+    object-fit: cover;
+}
 
 .dollar {
     float:right;
